@@ -21,3 +21,7 @@ License
 This software is under MIT License.
 
 [[LICENSE](https://github.com/CatDany/Danys-TooManyGodDamnOres/blob/master/LICENSE)]
+
+Updated Build
+========================
+TooManyDanyOres b1.0-3 for 1.7.10 rebuilt by Jonius7 for Forge 10.13.0.1558
